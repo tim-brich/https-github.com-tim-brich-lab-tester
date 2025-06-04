@@ -1,0 +1,5 @@
+[COMPILATION SUCCESS]
+[TEST 1] Passed
+[TEST 2] Failed at line 1
+
+[SUMMARY] 1 / 2 tests passed

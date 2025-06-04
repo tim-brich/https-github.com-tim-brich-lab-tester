@@ -1,0 +1,9 @@
+[COMPILATION SUCCESS]
+[TEST 1] Runtime error
+[TEST 2] Runtime error
+
+[SUMMARY] 0 / 2 tests passed
+
+[STDERR]
+sh: 1: ./student_program.exe: Permission denied
+sh: 1: ./student_program.exe: Permission denied

@@ -1,0 +1,3 @@
+[COMPILATION SUCCESS]
+[TEST 1] Passed
+[TEST 2] Passed

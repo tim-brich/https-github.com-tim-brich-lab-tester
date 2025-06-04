@@ -1,0 +1,5 @@
+[COMPILATION ERROR]
+results\b546d15d-9171-4d13-9536-d49059e8aad0.cpp: In function 'int main()':
+results\b546d15d-9171-4d13-9536-d49059e8aad0.cpp:8:5: error: expected ';' before '}' token
+     }
+     ^

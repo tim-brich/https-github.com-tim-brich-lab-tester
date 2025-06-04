@@ -1,0 +1,5 @@
+[COMPILATION ERROR]
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: reopening student_program.exe: Permission denied
+
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: final link failed: Permission denied
+collect2.exe: error: ld returned 1 exit status

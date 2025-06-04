@@ -1,0 +1,4 @@
+[COMPILATION ERROR]
+
+[STDERR]
+sh: 1: cannot create compile_errors.txt: Read-only file system
